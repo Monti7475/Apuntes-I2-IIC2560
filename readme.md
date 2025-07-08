@@ -40,3 +40,6 @@ Por ejemplo, podrían pedir
  Funciones que devuelven otras funciones o las reciben como argumentos.
  ### Mutabilidad
  uso de set! para mutar los datos
+
+
+T.B.C
